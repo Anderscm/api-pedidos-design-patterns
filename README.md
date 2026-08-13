@@ -23,7 +23,7 @@ Projeto autoral desenvolvido em Java com Spring Boot para consolidação e aplic
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Java 17**
+- **Java 21**
 - **Spring Boot 3**
 - **Spring Data JPA**
 - **H2 Database** (Banco de dados relacional em memória)
